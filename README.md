@@ -56,3 +56,6 @@ python -m venv myenv
 myenv\Scripts\activate
 pip install -r requirements.txt
 python -m uvicorn Fast_api.main:app --reload
+
+<img width="1329" height="898" alt="API_docs" src="https://github.com/user-attachments/assets/3be4db46-1f0f-40a3-b8e4-024a804196f6" />
+
